@@ -6,11 +6,8 @@ Responsive user Registration and Login (SignIn & SignUp) Form functionality usin
 
 
 ![Screenshot](https://github.com/AkilaSuranga/login_mern/blob/main/frontend/src/assets/081851.png)
-
-
-
 ![Screenshot](https://github.com/AkilaSuranga/login_mern/blob/main/frontend/src/assets/082420.png)
-![Screenshot](https://raw.githubusercontent.com/username/repository/main/frontend/src/assets/082420.png)
+
 
 
 
